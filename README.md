@@ -27,9 +27,8 @@ git clone https://github.com/Sania-Developer/Data-Structure-and-Algorithm-Dart.g
 
 ## 📂 Repository Structure
 
-- `lib` folder contains the Dart code for data structures and algorithms.
-- `problems` directory has solutions to various programming problems organized by topics.
-- `images` folder stores relevant images used in the README.
+- `lib\DSA` folder contains the Dart code for data structures.
+- `lib\Problems` directory has solutions to various programming problems organized by topics.
 
 ## 📊 Table of Contents
 
