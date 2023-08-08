@@ -89,7 +89,23 @@ git clone https://github.com/Sania-Developer/Data-Structure-and-Algorithm-Dart.g
 - [x] **Problem - Find the sum of all even numbers in the list**
 - [x] **Problem - Find the unique elements in the list**
 
+## Linked List
 
+### Singly Linked List Basics
+- [x] Defining a Node class
+- [x] Creating a singly linked list using Node class
+- [x] Adding a node at the beginning
+- [x] Adding a node at the end
+- [x] Deleting a node at the beginning
+- [x] Deleting a node at the end
+- [x] Getting the size of the linked list
+
+### Reversing a Linked List
+- [x] Reversing a singly linked list
+
+### Using LinkedList Collection Package
+- [x] Importing and using the dart:collection package
+- [x] Creating a LinkedList with custom entry class
  <div align="center">
 
 # 🌟🚀 **Hey there, brilliant minds out there!** 🚀🌟
